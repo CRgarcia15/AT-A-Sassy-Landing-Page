@@ -94,6 +94,9 @@ a {
   color: #FFC300;
   font-weight: 800;
 }
+.hero .hero-content h1.hover {
+  color: hotpink;
+}
 
 .m-1 {
   margin: 1rem;

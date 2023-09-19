@@ -73,7 +73,12 @@ a {
     }
   }
 
-  
+  .hero-content{
+    h1.hover{
+      color: hotpink;
+    }
+  }
+
 }
 
 // This code is related to some of the aspects of SCSS we have yet to cover.
